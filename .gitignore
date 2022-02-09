@@ -1,3 +1,6 @@
+*.Rproj
+*.xlsx
+
 # History files
 .Rhistory
 .Rapp.history
